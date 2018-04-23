@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi|Open+Sans');
+.button {
+  text-decoration: none;
+  font-family: 'Open-Sans', sans-serif;
+  color: #CF171D;
+  display: inline-block;
+  border: 2px solid #CF171D;
+  font-size: 2em;
+  margin-top: 20px;
+  padding: 10px 10px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+.stopwatch {
+  color: #FFD608;
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Gugi', cursive;
+  letter-spacing: 7px;
+}
+.app {
+  background-color: #00243D;
+  color:#CF171D;
+  width: 500px;
+  margin: 0 auto;
+}
+h3 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #0095C7;
+  text-align: center;
+  font-size: 3em;
+}
+#clear {
+  background-color: transparent;
+  border: 3px solid #CF171D;
+  padding: 10px 20px;
+  margin: 0 auto;
+  color:  #CF171D;
+  display: block;
+}
+ul {
+  padding-left: 15px;
+  list-style-type: none;
+  font-family: 'Gugi', cursive;
+  color: #FFD608;
+  font-size: 1.5em;
+  letter-spacing: 3px;
+
+}
