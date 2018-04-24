@@ -19,6 +19,7 @@ nav {
   font-size: 5em;
   font-family: 'Gugi', cursive;
   letter-spacing: 7px;
+  display: block;
 }
 .app {
   background-color: #00243D;
